@@ -22,7 +22,7 @@ Here are some of the key skills I bring to the table:
 
 ## Let's Connect
 
-I'm always excited to connect with fellow enthusiasts, collaborators, and professionals in the field. If you have any questions or want to discuss potential projects, don't hesitate to reach out! 📬
+I'm always excited to connect with fellow enthusiasts, collaborators, and professionals in the field. If you have any questions or want to discuss potential projects, don't hesitate to reach out! 📬 [Connect with me on LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/esther-flores-gonzalez)
 
 Thank you for visiting my GitHub page. Let's create something amazing together! 🚀
 
