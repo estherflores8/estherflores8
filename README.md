@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**estherflores8/estherflores8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working at AI Sweden, developing AI tools for nonprofit organizations.
 
-Here are some ideas to get you started:
+🌱 I’m diving deep into NLP and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on innovative AI and data science projects.
+
+💬 Ask me about music 🎵, food 🍜 or books 📚
+
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/esther-flores-gonzalez)
+
+😄 Pronouns: she/her
+```
+
