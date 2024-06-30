@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm an AI Engineer with a Master's in AI from Stockholm University 🎓 and a Bachelor's in Mathematical Engineering in Data Science 📊. My journey in the tech world is fueled by a passion for data and a drive to create intelligent solutions.
+Hi there! 👋 I'm an AI Engineer with a Master's in AI from Stockholm University 🎓 and a Bachelor's in Mathematical Engineering in Data Science 📊. My journey in the tech world is fueled by a passion for data and a drive to create intelligent solutions. I am dedicated to using my skills to develop AI tools that make a positive social impact.
 
 ## What I Do
 
@@ -24,5 +24,4 @@ Here are some of the key skills I bring to the table:
 
 I'm always excited to connect with fellow enthusiasts, collaborators, and professionals in the field. If you have any questions or want to discuss potential projects, don't hesitate to reach out! 📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/esther-flores-gonzalez)
 
-Thank you for visiting my GitHub page. Let's create something amazing together! 🚀
 
